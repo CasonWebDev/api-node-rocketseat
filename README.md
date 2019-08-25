@@ -35,6 +35,7 @@ A mais legal: Seguir o passo a passo abaixo
 - yarn add eslint -D
 - yarn add sequelize -D
 - yarn add sequelize-cli -D
+- yarn add pg pg-hstore
 - yarn add bcryptjs _(opcional para aplicar hash em senhas)_
 - yarn add jsonwebtoken _(opcional para trabalhar com autenticação JWT)_
 
